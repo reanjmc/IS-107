@@ -93,13 +93,21 @@ ANSWER: Focus resources on the highest-performing segment identified in the data
 Question:
 ● What is the total sales amount?
 ANSWER: 220K 
+
 Question:
 ● What happens to other visuals when you click a region?
+ANSWER: By default, in most modern business intelligence tools (like Power BI, Tableau, and Looker Studio), clicking a region or data point in one visual cross-filters or cross-highlights other visuals on the same report page. This interaction makes reports dynamic, allowing you to focus on specific data segments. 
 ● Why is filtering important in BI?
+ANSWER: Filtering is a foundational technique in Business Intelligence (BI) and data analysis that narrows down large, complex datasets to display only the most relevant, actionable information. It acts as a "sieve" or "gatekeeper," essential for transforming raw data into meaningful insights, enhancing, and speeding up decision-making. 
 
 Question:
 ● Does sorting improve readability?
+ANSWER: Yes
 ● Why?
+ANSWER: sorting significantly improves readability by transforming chaotic data into a structured format that is easier for the human brain to process, scan, and understand. It reduces the cognitive load on the reader, allowing them to find, compare, and digest information faster. 
+
 Task 4: Identify Outliers
 ● Which region is significantly higher or lower?
+ANSWER: THE WEST REGION REGION IS THE HIGHEST-PERFORMING REGION
 ● What might explain that difference?
+ANSWER: STRONGER MARKET DEMAND
