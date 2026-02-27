@@ -51,7 +51,7 @@ Students must now interpret visuals.
                   ● Which product category performs best?
                   ANSWER: ELECTRONICS
                   ● Are sales consistent across dates?
-                  ANSWER: YES
+                  ANSWER: No, sales are not consistent across dates they fluctuate significantly with noticeable highs and lows.
                   ● What business recommendation can you suggest?
                   ANSWER: OFFICE SUPPLIES
 
@@ -65,7 +65,7 @@ ANSWER: DATE, PRODUCT, CATEGORY, REGION AND SALES
 ANSWER: DECIMAL NUMBER
 
 3. Which Power BI view allows you to see raw data?
-ANSWER: LINE CHART
+ANSWER: Data View
 
 4. What chart type is best for showing trends over time?
 ANSWER: LINE CHART
@@ -81,33 +81,37 @@ ANSWER: WEST
 ANSWER: OFFICE SUPPLIES
 
 8. Are sales increasing, decreasing, or stable?
-ANSWER: DECREASING
+ANSWER: Sales are unstable over time.
 
 9. If you were a manager, which region would you prioritize?
-ANSWER: NORTH
+ANSWER: West
 
 10. Provide one actionable recommendation based on the data.
-ANSWER: Focus resources on the highest-performing segment identified in the data by increasing targeted marketing and promotional efforts there to maximize return on investment and accelerate overall growth.
+ANSWER: Increase marketing and inventory focus on Product C (Office Supplies) in the West region during peak months to capitalize on high sales potential and stabilize revenue.
+
 
 
 Question:
 ● What is the total sales amount?
-ANSWER: 220K 
+ANSWER: 220K sales
 
 Question:
 ● What happens to other visuals when you click a region?
-ANSWER: By default, in most modern business intelligence tools (like Power BI, Tableau, and Looker Studio), clicking a region or data point in one visual cross-filters or cross-highlights other visuals on the same report page. This interaction makes reports dynamic, allowing you to focus on specific data segments. 
+ANSWER: When you click a region in the dashboard, other visuals get filtered or highlighted to show data only for that selected region.
 ● Why is filtering important in BI?
-ANSWER: Filtering is a foundational technique in Business Intelligence (BI) and data analysis that narrows down large, complex datasets to display only the most relevant, actionable information. It acts as a "sieve" or "gatekeeper," essential for transforming raw data into meaningful insights, enhancing, and speeding up decision-making. 
+ANSWER: Filtering is important in BI because it lets you focus on relevant data and uncover insights quickly. In short filtering turns large datasets into actionable, focused insights.
 
 Question:
 ● Does sorting improve readability?
 ANSWER: Yes
 ● Why?
-ANSWER: sorting significantly improves readability by transforming chaotic data into a structured format that is easier for the human brain to process, scan, and understand. It reduces the cognitive load on the reader, allowing them to find, compare, and digest information faster. 
+ANSWER: Sorting improves readability because it organizes data in a logical order, making patterns, trends, and key insights easier to spot. 
 
 Task 4: Identify Outliers
 ● Which region is significantly higher or lower?
-ANSWER: THE WEST REGION REGION IS THE HIGHEST-PERFORMING REGION
+ANSWER: Significantly higher: West region
+		    Significantly lower: South region
 ● What might explain that difference?
-ANSWER: STRONGER MARKET DEMAND
+ANSWER: The difference is likely due to higher demand and better promotions in the West versus lower demand in the South.
+
+
